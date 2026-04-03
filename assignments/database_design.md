@@ -1,5 +1,5 @@
-<!-- insert image from summarize.png -->
-![summarize database](summarize.png)
+<img width="2320" height="1172" alt="summarize" src="https://github.com/user-attachments/assets/6ed5aa17-bb84-4353-8db2-c46b5f3c5ab5" />
+
 
 https://dbdiagram.io/d/summarize-69aa0702a3f0aa31e1fc15f1
 
